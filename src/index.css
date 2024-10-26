@@ -13,10 +13,14 @@ body {
     height: 100dvh;
 }
 
-.attribution {
-    font-size: 11px;
+.footer {
+    position: absolute;
+    bottom: 20px;
+    margin: 0 20px;
     text-align: center;
-  }
-  .attribution a {
-    color: hsl(228, 45%, 44%);
-  }
+}
+
+.footer a {
+    font-weight: 600;
+    color: #c5f82a;
+}
